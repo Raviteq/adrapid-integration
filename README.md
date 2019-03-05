@@ -23,4 +23,4 @@ Secret token found in the dashboard
 Port of the test application
 
 ## Usage
-`$ node index`
+`$ npm start`
